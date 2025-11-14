@@ -32,9 +32,9 @@ I focus on building real-world applications that solve problems and demonstrate 
 | :--- | :--- | :--- | :--- |
 | **PresentX** | **Educational Management System.** A comprehensive Flutter app for streamlined academic management using **role-based interfaces** and **real-time data sync**. | Dart, Flutter, Firebase, Firestore, Supabase | [GitHub](https://github.com/amitl2024/PresentX) |
 | **Secura** | **Women Safety Application.** An essential app built to enhance personal safety and provide quick access to help features. | Dart, Flutter, Firebase | [GitHub](https://github.com/amitl2024/Secura-WomenSafety) |
-| **Price-Comparison-APP** | **Real-time Price Comparison** of products from major e-commerce sites like Amazon and Flipkart. Excellent demonstration of API integration. | Dart, Flutter, REST APIs, Web Scraping (if applicable) | [Link TBD] |
-| **Weather-App-API** | Simple and clean weather application showcasing proficiency in fetching and displaying data using external **Weather APIs**. | Dart, Flutter, REST APIs | [Link TBD] |
-| **Smart_Factory** | **Industrial IoT Dashboard.** An interface for monitoring and visualizing data from industrial sensors and systems in a factory environment. | Dart, Flutter, (Add specific IoT/Backend tech) | [Link TBD] |
+| **Price-Comparison-APP** | **Real-time Price Comparison** of products from major e-commerce sites like Amazon and Flipkart. Excellent demonstration of API integration. | Dart, Flutter, REST APIs, Web Scraping (if applicable) | [GitHub](https://github.com/amitl2024/Price-Comparison-APP) |
+| **Weather-App-API** | Simple and clean weather application showcasing proficiency in fetching and displaying data using external **Weather APIs**. | Dart, Flutter, REST APIs | [GitHub](https://github.com/amitl2024/Weather-App-API) |
+| **Smart_Factory** | **Factory Maintenance App** Tracking of the maintenance of different machines. | Dart, Flutter, Firebase | [GitHub](https://github.com/amitl2024/Smart_Factory) |
 
 ---
 
