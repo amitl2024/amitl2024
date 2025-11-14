@@ -41,9 +41,9 @@ I focus on building real-world applications that solve problems and demonstrate 
 ### 📊 **My GitHub Activity**
 
 <p align="center">
-  [![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitl2024&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+  [![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitl2024&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)]
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitl2024&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitl2024&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)]
 </p>
 
 ---
